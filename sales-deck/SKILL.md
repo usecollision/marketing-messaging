@@ -1,7 +1,7 @@
 ---
 name: sales-deck
 category: content
-description - Write pitch deck copy slide by slide - problem-solution-proof-CTA narrative, full-sentence headline claims, and speaker notes.
+description: Write pitch deck copy slide by slide - problem-solution-proof-CTA narrative, full-sentence headline claims, and speaker notes.
 triggers:
   - "sales deck"
   - "pitch deck"

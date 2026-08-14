@@ -1,7 +1,7 @@
 ---
 name: messaging-hierarchy
 category: strategy
-description - Build a messaging architecture - positioning statement, value pillars, proof points, and taglines that cascade to every surface.
+description: Build a messaging architecture - positioning statement, value pillars, proof points, and taglines that cascade to every surface.
 triggers:
   - "messaging architecture"
   - "message hierarchy"
