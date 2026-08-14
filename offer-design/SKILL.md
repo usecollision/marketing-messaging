@@ -122,6 +122,12 @@ Decision rules:
 5. IF testing offer elements THEN isolate one element per test and watch refunds/churn downstream — an offer that converts but raises refunds is a failure (existing Step 6 + Hormozi — FRAMEWORK, T1/T3).
 6. IF the market is sophistication stage 4-5 (named mechanisms everywhere) THEN the offer must include a named mechanism or identity element — bare value stacks look generic (Schwartz — FRAMEWORK, T1).
 
+## Metrics
+
+- **Conversion per offer variant** + refund/churn downstream (existing Step 6 — FRAMEWORK, T1).
+- **Offer-vs-copy diagnosis**: conversion stalled with sound copy = offer bottleneck flag (Hormozi — HEURISTIC, T3).
+- **Perceived value vs price gap** — from competitor stack comparison (existing Step 1 — FRAMEWORK, T1).
+
 ## Sources
 
 1. Alex Hormozi, *$100M Offers* (offer stacking, grand slam offer) | tier 3 (self-reported results; structured method) | 2026-08-14
