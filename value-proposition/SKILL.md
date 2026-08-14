@@ -1,7 +1,7 @@
 ---
 name: value-proposition
 category: strategy
-description: Design a JTBD-based value proposition: quantified outcomes, uniqueness, and a defensible USP statement.
+description - Design a JTBD-based value proposition - quantified outcomes, uniqueness, and a defensible USP statement.
 triggers:
   - "value proposition"
   - "value prop"

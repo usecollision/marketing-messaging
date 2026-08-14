@@ -1,7 +1,7 @@
 ---
 name: email-copy
 category: copy
-description: Write lifecycle and marketing email copy: subject lines, preview text, body structure, and CTAs that get opened and clicked.
+description - Write lifecycle and marketing email copy - subject lines, preview text, body structure, and CTAs that get opened and clicked.
 triggers:
   - "email copy"
   - "write an email"

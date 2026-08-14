@@ -1,7 +1,7 @@
 ---
 name: case-study-builder
 category: content
-description: Build metrics-first case studies: challenge-solution-results structure, quantified outcomes, and repurposed variants for every channel.
+description - Build metrics-first case studies - challenge-solution-results structure, quantified outcomes, and repurposed variants for every channel.
 triggers:
   - "case study"
   - "customer story"

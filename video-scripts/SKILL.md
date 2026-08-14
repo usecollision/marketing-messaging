@@ -1,7 +1,7 @@
 ---
 name: video-scripts
 category: content
-description: Write short-form video scripts for ads and organic: hook-retain-payoff structure, retention beats, and platform-fit formatting.
+description - Write short-form video scripts for ads and organic - hook-retain-payoff structure, retention beats, and platform-fit formatting.
 triggers:
   - "video script"
   - "short form video"
