@@ -123,6 +123,46 @@ Score each variant:
 
 **Gate:** Best variant scores 3.5+ weighted average.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Joanna Wiebe (Copyhackers), Momoko Price (Kantan), Eugene Schwartz (*Breakthrough Advertising*), Claude Hopkins, David Ogilvy, Gary Halbert, Ann Handley, Laura Belgray, Andre Chaperon, Alex Hormozi (T3, conditions). Full research: practitioner-intelligence/syntheses/messaging.md.
+
+- **Copy comes from research, not creativity** (Wiebe, Price, Ogilvy, Hopkins, Halbert — FRAMEWORK, T1): five independent practitioners across 100 years agree — this is the strongest consensus in copywriting. Wiebe: "research and discovery is everything"; Ogilvy: "helpless without research". Customer language wins verbatim ("slightly revise" — Wiebe).
+- **Market sophistication is the master variable** (Schwartz — FRAMEWORK, T1-canonical): stages 1-5 (direct claim → differentiated → mechanism → named mechanism → identity). Direct claims fail in saturated markets — "simple clear copy" advice is stage-1 logic applied to stage-3+ markets. Assess sophistication BEFORE choosing claim type.
+- **Awareness levels** (Schwartz — FRAMEWORK, T1): the skill already maps frameworks to awareness — this is Schwartz's model; cold traffic needs problem-aware entry, warm/retargeting needs offer/close entry.
+- **The offer precedes the copy** (Halbert, Hormozi, Schwartz — FRAMEWORK, T1/T2): copy amplifies existing demand; it does not manufacture it. If the offer can be compared away to alternatives, fix the offer first (Hormozi — T3, treat as heuristic).
+- **Optimize a funnel, not a page** (Price — FRAMEWORK, T2): page-rewrite requests without funnel context are a category error.
+- **Voice vs research are different layers** (Belgray/Handley vs Wiebe/Price — DISAGREEMENT, conditional): research supplies WHAT to say, voice supplies HOW. Voice is the differentiator in commoditized inboxes/social; message-match is the differentiator in unfamiliar categories.
+
+Decision rules:
+1. IF no customer language exists (no tickets, calls, surveys, reviews) THEN run research first — writing without it fails 99% of the time (Wiebe — FRAMEWORK, T1).
+2. IF no baseline analytics exist THEN fix measurement before the copy project — unmeasurable copy work is gambling (Price — FRAMEWORK, T2).
+3. IF the market is sophistication stage 3+ (competitors claiming the same outcomes) THEN lead with mechanism/proof, not outcome claims (Schwartz — FRAMEWORK, T1).
+4. IF writing for cold traffic THEN enter at the problem-aware level; IF warm/retargeting THEN enter at the offer/close level — one message for all awareness levels is a category error (Schwartz — FRAMEWORK, T1).
+5. IF the audience can compare the offer away to alternatives THEN stack the offer before writing more copy (Hormozi — HEURISTIC, T3).
+6. IF the request is "rewrite this page" THEN reframe to "optimize this funnel step" — check drop-off context first (Price — FRAMEWORK, T2).
+7. IF the category is commoditized (inboxes, social feeds) THEN lead with voice/personality; IF unfamiliar category THEN lead with message-match clarity (Belgray/Handley vs Wiebe — DISAGREEMENT, conditional, T2).
+8. IF traffic supports conclusive tests THEN A/B test copy variants; IF not THEN use five-second clarity tests + funnel observation (Wiebe/Hopkins — FRAMEWORK, T1).
+
+## Metrics
+
+- **Baseline conversion + funnel drop-off deltas** per step (Price — FRAMEWORK, T2): the copy change is measured against the step's baseline, not the page's.
+- **Response per variant** (Hopkins — EMPIRICAL, T1): test cheaply, keep winners, kill losers (test-measure-refine loop).
+- **Clarity pass rate** on five-second tests (Wiebe — FRAMEWORK, T1).
+- **Cost per acquisition per message variant** where trackable.
+
+## Sources
+
+1. Joanna Wiebe, Copyhackers 3-part copy process (research → write → validate) | copyhackers.com | tier 1 | 2026-08-14
+2. Momoko Price, Kantan funnel-mapping method + TCC podcast #17 | kantan.io | tier 2 | 2026-08-14
+3. Eugene Schwartz, *Breakthrough Advertising* (market sophistication, awareness) — exegesis via themarketingjuice | tier 2 (secondary on canonical) | 2026-08-14
+4. Claude Hopkins, *Scientific Advertising* (test-measure-refine) | analyticstrategy.com | tier 1 | 2026-08-14
+5. David Ogilvy, "11 rules" + *Ogilvy on Advertising* | awai.com | tier 1 | 2026-08-14
+6. Gary Halbert, "The Starving Crowd" letter (offer-first, list bias) | thegaryhalbertletter.com | tier 1 | 2026-08-14
+7. Ann Handley, *Everybody Writes* (simplicity, voice) | tier 1 | 2026-08-14
+8. Laura Belgray, Talking Shrimp (voice-led email) | tier 2 | 2026-08-14
+9. Alex Hormozi, *$100M Offers* (offer stacking — self-reported results, T3) | tier 3 | 2026-08-14
+
 ## Evaluation & QA
 
 ### Common Failure Modes
