@@ -20,6 +20,11 @@ Merged from: `marketing-copy` + `marketing-content` (Aug 2026).
 | [case-study-builder](case-study-builder/SKILL.md) | content | Build metrics-first case studies: challenge-solution-results structure, quantified outcomes, and repurposed variants for every channel. |
 | [sales-deck](sales-deck/SKILL.md) | content | Write pitch deck copy slide by slide: problem-solution-proof-CTA narrative, full-sentence headline claims, and speaker notes. |
 | [video-scripts](video-scripts/SKILL.md) | content | Write short-form video scripts for ads and organic: hook-retain-payoff structure, retention beats, and platform-fit formatting. |
+| [ad-copy](ad-copy/SKILL.md) | copy | Write paid media ad copy for Meta, Google, LinkedIn, and TikTok: platform constraints, headline formulas, primary text, CTAs, and funnel-stage variants. |
+| [thought-leadership](thought-leadership/SKILL.md) | content | Write thought leadership essays and founder content: POV essay structure, contrarian takes, earned-insight topic selection, and distribution. |
+| [content-repurposing](content-repurposing/SKILL.md) | content | Turn one long-form asset into many platform-native assets: threads, posts, carousels, and video with a tracking loop back to the source. |
+| [offer-design](offer-design/SKILL.md) | strategy | Construct offers beyond discounts: value stacking, pricing psychology, guarantees and risk reversal, bonuses, and offer testing. |
+| [localization](localization/SKILL.md) | copy | Adapt marketing copy for new markets: cultural adaptation over translation, market-specific value props, idioms, local proof, and review workflow. |
 
 ## Depends on
 - `marketing-core` (context, ontology)
