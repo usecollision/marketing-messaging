@@ -108,6 +108,39 @@ Mapping rules:
 
 **Gate:** Tracking labels in place; weekly review cadence defined; tracker updated with the current wave.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Ross Simmonds (Three Rs, create-once-distribute-forever), Nicolas Cole (republishing framework), David Perell (idea bank). Full research: practitioner-intelligence/domains/messaging-longtail/ross-simmonds.md; syntheses/messaging-longtail.md, social.md.
+
+- **Repurpose, remix, reshare** (Simmonds — FRAMEWORK, T1): repurpose = new formats; remix = new consumption experience (audio → clips → posts); reshare = re-run the asset for the audience that missed it.
+- **Only ~20% of an audience sees any single post — resharing serves the 80%** (Simmonds — EMPIRICAL, T2): resharing is service, not spam, when spaced.
+- **Create once, distribute forever** (Simmonds — FRAMEWORK, T1): the work happens after publish; distribution is a pillar (creation, optimization, budget, distribution, research).
+- **Reformat, never repost** (Cole/Simmonds — HEURISTIC): each platform gets its native rhythm; the voice stays constant.
+- **Four E's filter** (Simmonds — FRAMEWORK, T1): content worth distributing Educates, Engages, Entertains, or Empowers — otherwise skip the wave.
+- **Let performance data choose the source asset** (skill standard + Simmonds — HEURISTIC): hits and evergreen assets get repurposed; mediocre content doesn't.
+
+Decision rules:
+1. IF an asset didn't perform AND isn't evergreen THEN don't repurpose it (Simmonds — HEURISTIC, T2).
+2. IF the same topic is going to one platform twice within 48-72h THEN space it — resharing serves the 80% who missed it, flooding annoys the 20% who saw it (Simmonds — EMPIRICAL, T2).
+3. IF a unit can't stand alone without the source's context THEN it's not extractable — skip it (skill standard — HEURISTIC).
+4. IF a unit wins in one format THEN remake it in the others (Simmonds/Cole — HEURISTIC).
+5. IF entering a community channel (Reddit, groups, forums) THEN mirror its voice and give value before promoting (Simmonds — HEURISTIC, T1).
+6. IF a variant can't be tracked back to its source atom THEN add tracking — unlearnable waves are waste (Simmonds — FRAMEWORK, T1).
+
+## Metrics
+
+- **Variant performance roll-up to the source atom** (primary — Simmonds, T1): which units win, in which formats.
+- **Reach served per asset**: cumulative reach across the wave vs single publish (Simmonds ~20% rule — EMPIRICAL, T2).
+- **Top-20% concentration**: cut losers, double down on the top-performing fifth of units (skill heuristic).
+- **Timebox**: weekly review of wave performance; recycle flagged evergreen units in later months.
+
+## Sources
+
+1. Ross Simmonds, Create Once Distribute Forever / Three Rs / Four E's | rosssimmonds.com + kpplaybook.com + theagentsofchange.com | tier 1 | 2026-08-15
+2. Ross Simmonds, distribution office hours | superpath.co | tier 2 | 2026-08-15
+3. Nicolas Cole, republishing framework (4A, atomic essay) | ship30for30.com | tier 1 | 2026-08-15
+4. David Perell, idea bank / building blocks | every.to Superorganizers | tier 1 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

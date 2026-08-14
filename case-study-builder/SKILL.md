@@ -114,6 +114,39 @@ Each variant keeps the same metrics-first headline logic and points to the full 
 
 **Gate:** Long form plus at least 2 variants produced; all share the same verified numbers.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Joanna Wiebe (metrics-first proof), David Ogilvy (proof discipline), Clozd (verification/win-loss discipline), Ross Simmonds (repurpose/remix/reshare). Full research: practitioner-intelligence/syntheses/messaging.md, research.md, messaging-longtail.md.
+
+- **Metrics-first headline: outcome + delta + timeframe** (Wiebe — FRAMEWORK, T1): lead with the number that stops your ICP mid-scroll, not the logo.
+- **Proof discipline: every published number verified and signed off** (Ogilvy/Clozd — EMPIRICAL, T1): fabricating or inflating numbers is a hard stop; unverifiable numbers become estimates or get dropped.
+- **Challenge-solution-results with proof placed at the moment of doubt** (Wiebe/Price — FRAMEWORK, T1): one metric in the challenge's stakes, metrics table at the top of results, quotes at decision points — not all proof stacked at the end.
+- **Story selection requires numbers + permission** (skill standard — HEURISTIC): a "great relationship" story without verifiable outcomes is a testimonial, not a case study.
+- **Repurpose with the same verified numbers** (Simmonds — FRAMEWORK, T1): create once, distribute forever — every variant keeps the same metrics-first logic and points to the full story.
+
+Decision rules:
+1. IF no verifiable numbers AND no written permission THEN don't build the case study (skill standard — HEURISTIC).
+2. IF the headline doesn't lead with an outcome metric THEN rewrite it (Wiebe metrics-first — FRAMEWORK, T1).
+3. IF a number can't be verified from system/report data THEN label it an estimate or drop it (Clozd/Ogilvy — EMPIRICAL, T1).
+4. IF repurposing THEN keep the same verified numbers across variants — never re-derive or "improve" metrics per channel (Simmonds/skill standard — FRAMEWORK, T1).
+5. IF the reader is an executive THEN lead results with the metrics table; IF technical THEN include implementation detail (conditional — HEURISTIC).
+6. IF the story has no trigger moment or alternatives considered THEN the interview is incomplete — those beats sell the comparison (skill standard — HEURISTIC).
+
+## Metrics
+
+- **Verification rate**: 100% of published numbers signed off by the customer (Clozd — EMPIRICAL, T1).
+- **Story conversion**: case study's influence on demo bookings/deal velocity (sales-sourced — HEURISTIC).
+- **Variant yield**: number of repurposed assets per story (Simmonds — target ≥3 variants: one-pager, slide, social).
+- **Timebox**: refresh or retire case studies when metrics age past ~18 months or the product materially changes.
+
+## Sources
+
+1. Joanna Wiebe, metrics-first proof structure | copyhackers.com | tier 1 | 2026-08-14
+2. David Ogilvy, proof discipline | awai.com | tier 1 | 2026-08-14
+3. Clozd, win/loss verification discipline | clozd.com | tier 1 | 2026-08-15
+4. Ross Simmonds, create once/distribute forever + Three Rs | theagentsofchange.com + kpplaybook.com | tier 1 | 2026-08-15
+5. Momoko Price, proof placement at moment of doubt | kantan.io | tier 2 | 2026-08-14
+
 ## Evaluation & QA
 
 ### Common Failure Modes

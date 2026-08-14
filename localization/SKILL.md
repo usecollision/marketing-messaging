@@ -101,6 +101,41 @@ Invoke when:
 
 **Gate:** Per-market tracking in place; feedback loop defined; re-localization triggers listed.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Lokalise (localization workflow + transcreation), Phrase (TMS/orchestration), Transifex (TQI quality gating), documented i18n failure cases (Pepsi, HSBC, P&G Pampers, Schweppes, American Airlines). Full research: practitioner-intelligence/domains/messaging-longtail/localization-vendor-panel.md, transcreation-failure-cases.md; syntheses/messaging-longtail.md.
+
+- **Depth ladder: translation → localization → transcreation** (Lokalise — FRAMEWORK): translation converts words, localization adapts for fit, transcreation rebuilds for the same feeling and action in the new culture.
+- **Lock the narrative frame, let each market rewrite the punch line** (Mastercard "Priceless" — EMPIRICAL, T2): 53 languages/112 countries, 80%+ awareness; Snickers: same insight, local slang + casting, +15.9% global sales (~$376M) year one.
+- **Literal translation inverts meaning at catastrophic cost** (HSBC "Assume nothing"→"Do nothing" $10M rebrand; Pepsi China "ancestors back from the grave" — EMPIRICAL, T2): 29% of marketers admit a cultural blunder damaged brand reputation (Lokalise survey).
+- **Automation is safe when threshold-gated** (Transifex TQI — vendor EMPIRICAL, T3): score strings, auto-approve above threshold, route exceptions to humans; machine/AI translations enter TM only after review (TQI ≥0.95 recommended).
+- **Adopt tooling after fixing the process** (Phrase — HEURISTIC, T2): configuring a platform around a broken workflow is the biggest implementation mistake; pilot 1 content type + 2-3 language pairs.
+
+Decision rules:
+1. IF a joke/idiom needs a footnote to make sense THEN cut it — humor transfers poorly (Lokalise — HEURISTIC).
+2. IF the claim itself doesn't survive the market THEN the problem is the value prop, not the copy — re-run the value prop per market (skill standard — HEURISTIC).
+3. IF content is legal/medical/financial/safety THEN back-translation review is mandatory (Lokalise — HEURISTIC).
+4. IF scaling continuous releases across locales THEN use TMS with TM + glossary + conditional routing (100% TM match skips humans; MT below threshold; human above) (Phrase/Transifex — FRAMEWORK, T2).
+5. IF the asset is brand/emotional (slogans, campaigns) THEN transcreate with a human linguist-copywriter and in-market testing — never bare MT (Lokalise/PoliLingua — FRAMEWORK, T2).
+6. IF adopting a localization platform THEN document the current workflow first, then pilot one content type + 2-3 language pairs before full rollout (Phrase — HEURISTIC, T2).
+
+## Metrics
+
+- **Per-market performance vs home baseline** (primary — skill standard): a gap is a signal to re-audit, not a verdict.
+- **Quality gate coverage**: % of strings scored (TQI) or reviewed before publish (Transifex/Phrase — T2).
+- **TM/glossary adherence**: terminology drift incidents per quarter (vendors — T2).
+- **Review sign-off rate**: % of assets passing the two-reviewer loop (native copywriter + in-market SME).
+- **Timebox**: re-localize when home messaging shifts, not on a fixed calendar; re-audit on competitor entry or regulatory change.
+
+## Sources
+
+1. Lokalise, Localization Workflow Best Practices | lokalise.com/blog/localization-workflow-best-practices | tier 2 | 2026-08-15
+2. Lokalise, Transcreation Examples (Mastercard/Snickers/Stabilo) | lokalise.com/blog/transcreation-examples | tier 2 | 2026-08-15
+3. Lokalise, Localization Mistakes survey (29%) | lokalise.com/blog/localization-regrets-and-best-practices | tier 2 | 2026-08-15
+4. Phrase platform + implementation guidance | phrase.com + languagesunlimited.com | tier 2 | 2026-08-15
+5. Transifex, TQI + translation memory docs | transifex.com + help.transifex.com | tier 2 | 2026-08-15
+6. PoliLingua, famous marketing translation fails | polilingua.com | tier 3 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

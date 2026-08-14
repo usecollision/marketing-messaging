@@ -111,6 +111,40 @@ For each claim in the final statement, attach the evidence (case study metric, c
 
 **Gate:** Proof map complete with gaps flagged as follow-ups.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Bob Moesta/Clayton Christensen (JTBD), Tony Ulwick (outcome-driven), April Dunford (value elements), Marty Neumeier (onlyness), Hiten Shah (customer language), Joanna Wiebe (quantified outcomes). Full research: practitioner-intelligence/syntheses/research.md, positioning.md, messaging.md.
+
+- **Value = quantified delta between before and after** (Wiebe/Dunford — FRAMEWORK, T1): the delta, expressed as number/percentage/timeframe, with an evidence-strength label (observed/estimated/aspirational).
+- **JTBD framing in the customer's words** (Moesta/Christensen — FRAMEWORK, T1): job → pains → gains → success criteria; never product terms.
+- **Story-first vs outcome-first JTBD** (Moesta vs Ulwick — DISAGREEMENT, conditional): story/timeline reconstruction for emotional/rare purchases; strict outcome statements for operational, measurable jobs. Both reject feature-wishlist research.
+- **Differentiation = the "only" test** (Neumeier/Dunford — FRAMEWORK, T1): if a competitor could claim it, it's table stakes; provable uniqueness wins.
+- **80% customer vocabulary** (Shah/Wiebe — FRAMEWORK, T1): "use their words for copy."
+
+Decision rules:
+1. IF no customer language exists THEN run customer research first — a value prop written from internal opinion is fiction (Wiebe/Shah — FRAMEWORK, T1).
+2. IF a competitor could paste their name into the claim THEN treat it as table stakes, not differentiation (Neumeier "only" test — FRAMEWORK, T1).
+3. IF a quantified claim is estimated THEN label it estimated or drop it — never present estimates as measured (skill standard — HEURISTIC).
+4. IF the purchase is emotional or rare THEN reconstruct the switch story (timeline, forces); IF the job is operational THEN use outcome statements with the customer's success criteria (Moesta vs Ulwick — DISAGREEMENT, conditional).
+5. IF the statement fails "would the customer say this?" THEN rewrite in customer words (Shah — FRAMEWORK, T1).
+6. IF no proof exists for a clause THEN the clause is a to-do, not a value prop — route to product/customer teams (skill standard — HEURISTIC).
+
+## Metrics
+
+- **Proof coverage**: % of value-prop clauses with attached evidence (target 100% — Dunford evidence-first, T1).
+- **Customer-language share**: % of statement vocabulary traceable to the language bank (Shah — FRAMEWORK, T1).
+- **"Only" claim count**: number of provable uniqueness claims vs table stakes (Neumeier — FRAMEWORK, T1).
+- **Timebox**: re-validate at pricing/packaging changes, new segments, or major competitor moves.
+
+## Sources
+
+1. Bob Moesta/Clayton Christensen, JTBD switch interviews | jobstobedone.org | tier 1 | 2026-08-15
+2. Tony Ulwick, outcome-driven innovation | agiledata.io interview | tier 2 | 2026-08-15
+3. April Dunford, value elements + evidence-first | via positioning.md | tier 1 | 2026-08-14
+4. Marty Neumeier, onlyness | via positioning.md | tier 1 | 2026-08-14
+5. Hiten Shah, PMF-language for copy | via positioning.md | tier 1 | 2026-08-14
+6. Joanna Wiebe, quantified outcomes + five-second test | copyhackers.com | tier 1 | 2026-08-14
+
 ## Evaluation & QA
 
 ### Common Failure Modes

@@ -113,6 +113,39 @@ Then the consistency test: take any existing asset and verify every claim traces
 
 **Gate:** Surface map complete; audit of 3 existing assets shows zero orphan claims.
 
+## Practitioner Grounding & Decision Rules
+
+Built from April Dunford (positioning/hierarchy), Andy Raskin (narrative), Anthony Pierri (message maps), David Perell (surprise), Hiten Shah (evidence-first). Full research: practitioner-intelligence/syntheses/positioning.md, messaging.md, messaging-longtail.md.
+
+- **Hierarchy derives from positioning — it is not a redesign step** (Dunford — FRAMEWORK, T1): if positioning doesn't exist, do that work first; a hierarchy without a market frame is a feature list.
+- **3-5 outcome pillars, each with proof and a mapped objection** (Dunford/Pierri — FRAMEWORK, T1): >5 pillars collapse into a feature list; a pillar with no proof is an assertion.
+- **Narrative vs map** (Raskin vs Dunford — DISAGREEMENT, conditional): stable markets → hierarchy artifact + evidence; shifting markets with a credible big change → Raskin's story (big change → Promised Land → why now → as/if → new narrative).
+- **Taglines come from Pillar 1, not a thesaurus** (skill standard + Dunford — HEURISTIC).
+- **Consistency is the test**: every asset claim must trace to a pillar or it is noise (Dunford — FRAMEWORK, T1).
+
+Decision rules:
+1. IF positioning doesn't exist or is unproven THEN run the positioning work first — the hierarchy inherits everything from it (Dunford — FRAMEWORK, T1).
+2. IF a pillar has no proof point THEN flag it as an assertion with an owner and timeline — never ship it as fact (Dunford evidence-first — FRAMEWORK, T1).
+3. IF more than 5 pillars emerge THEN merge until 3-5 remain (Dunford/Pierri — HEURISTIC).
+4. IF a tagline says something a competitor would also say THEN reject it (positioning synthesis — FRAMEWORK, T1).
+5. IF a credible big change exists in the market THEN add the Raskin narrative layer (why now, Promised Land) on top of the hierarchy (Raskin — FRAMEWORK, T1); IF not THEN skip it — a story without a real shift rings false.
+6. IF an existing asset contains a claim tracing to no pillar THEN delete it or re-research it (consistency test — FRAMEWORK, T1).
+
+## Metrics
+
+- **% of shipped assets with zero orphan claims** (primary — consistency audit; Dunford — FRAMEWORK, T1).
+- **% of pillars with proof assigned** (evidence coverage; target 100% — Dunford).
+- **Message/sales consistency**: sales and support describe the product using pillar language (qualitative check).
+- **Timebox**: light review every 6 months; full re-workshop at new segment, major competitor, or category shift (Bare Strategy cadence — T2).
+
+## Sources
+
+1. April Dunford, positioning/hierarchy method | via positioning.md | tier 1 | 2026-08-14
+2. Andy Raskin, Greatest Sales Deck (5 elements) | via positioning.md | tier 1 | 2026-08-14
+3. Anthony Pierri, message maps | via positioning.md | tier 2 | 2026-08-14
+4. Hiten Shah, PMF-language evidence | via positioning.md | tier 1 | 2026-08-14
+5. David Perell, surprise-based structure | every.to Superorganizers | tier 1 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

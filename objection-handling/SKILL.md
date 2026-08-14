@@ -112,6 +112,39 @@ Package the rebuttal library for sales (copy-paste blocks) and support (macro te
 
 **Gate:** All four checks pass; library shared in a format sales and support will actually use.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Joanna Wiebe (research-mined objections), Momoko Price (funnel placement), Alex Hormozi (offer/value clarity), research synthesis (objections from tickets/calls), offer-design skill (price-objection-is-value-clarity rule). Full research: practitioner-intelligence/syntheses/messaging.md, research.md; offer-design SKILL.md.
+
+- **Price objections usually mean value clarity, not price** (offer-design rule — FRAMEWORK, T1): before discounting, verify the value is clear; "price objections usually mean the value is unclear" (Halbert/Hormozi line).
+- **Objections are mined, never invented** (Wiebe — FRAMEWORK, T1): 2-4 star reviews, sales call notes, lost-deal summaries, churn interviews carry the richest objections.
+- **Rank by frequency × severity; handle the top 5** (skill standard + Wiebe — HEURISTIC): the rest go to FAQ/support.
+- **Pre-emptive copy beats reactive rebuttal** (Wiebe/Price — FRAMEWORK, T1): the reader should never have to voice the objection; the strongest objection-killer goes nearest the CTA.
+- **Honesty compounds credibility** (skill standard — HEURISTIC): partial admission of a true objection raises credibility for everything else.
+
+Decision rules:
+1. IF the objection is price THEN check value clarity first — price objections usually mean the value is unclear, not that the price is wrong (offer-design rule — FRAMEWORK, T1).
+2. IF sales hears the same objection on every call THEN treat it as a messaging gap to fix in copy, not a sales problem (Wiebe — FRAMEWORK, T1).
+3. IF a rebuttal starts by dismissing or arguing ("Actually...") THEN rewrite to acknowledge first (skill standard — HEURISTIC).
+4. IF the objection is partly true THEN admit the true part explicitly (honesty check — HEURISTIC).
+5. IF placing objection-killers THEN put the strongest (guarantee, case study, named customer) adjacent to the CTA — that's where hesitation peaks (Price/CTA placement — HEURISTIC).
+6. IF fewer than 15 raw objections can be mined THEN the corpus is thin — extend to competitor reviews and community posts before ranking (skill standard — HEURISTIC).
+
+## Metrics
+
+- **Top-5 objection coverage**: % of top objections with both direct + pre-emptive versions (skill standard).
+- **Conversion at the objection step** (pricing page, demo booking): delta after objection copy ships (Price funnel-step lens — T2).
+- **Sales adoption**: rebuttal library used on calls (copy-paste blocks in CRM — HEURISTIC).
+- **Timebox**: re-mine objections quarterly or after churn interview batches; re-rank when product or pricing changes.
+
+## Sources
+
+1. Joanna Wiebe, objection mining + pre-emptive copy | copyhackers.com | tier 1 | 2026-08-14
+2. Momoko Price, funnel-step optimization | kantan.io | tier 2 | 2026-08-14
+3. Alex Hormozi, offer/value clarity | via offer-design SKILL.md | tier 3 | 2026-08-14
+4. Research synthesis (objections from tickets/calls; win/loss ≥20) | syntheses/research.md | tier 1 | 2026-08-15
+5. Gary Halbert, offer-first / value clarity | thegaryhalbertletter.com | tier 1 | 2026-08-14
+
 ## Evaluation & QA
 
 ### Common Failure Modes

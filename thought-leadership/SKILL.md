@@ -108,6 +108,41 @@ Rules:
 
 **Gate:** Distribution plan with primary surface, repurposed formats, seeding steps, and reply commitment.
 
+## Practitioner Grounding & Decision Rules
+
+Built from David Perell (surprise + CRIBS + LEGO blocks), Nicolas Cole (4A framework, atomic essays), Paul Graham (meander toward surprise), Ross Simmonds (distribution). Full research: practitioner-intelligence/domains/messaging-longtail/david-perell.md, nicolas-cole.md (social); syntheses/messaging-longtail.md.
+
+- **Earned insight is the raw material** (Perell/Cole — FRAMEWORK, T2): if a competent stranger could write it from public sources, it's content, not thought leadership.
+- **Surprise is the core ingredient** (Perell — FRAMEWORK, T1): "surprise and insight and entertainment are all very tightly correlated" (Shannon); essays should meander toward surprise (Graham).
+- **Test ideas live before writing** (Perell CRIBS — FRAMEWORK, T1): Confusing/Repeated/Boring → drop; Interesting/Surprising → dig deeper; Twitter/conversation is the validation lab.
+- **One idea per piece; the reframe must be quotable and falsifiable** (Perell/Cole — HEURISTIC): a claim no evidence could prove wrong is an opinion, not a POV.
+- **Structure from building blocks** (Perell LEGO blocks — FRAMEWORK, T1): sections as mini-essays; orphan blocks go back to the idea bank, not forced in.
+- **Distribution is half the job** (Simmonds — FRAMEWORK, T1): "the work happens after you press publish."
+
+Decision rules:
+1. IF a competent stranger could write it from public sources THEN it's not thought leadership — find the scar tissue or don't publish (Perell/Cole — FRAMEWORK, T2).
+2. IF the idea can't be framed as a belief shift THEN find the shift or drop the topic (skill standard — HEURISTIC).
+3. IF the author wouldn't defend it, unchanged, in a room with the people disagreed with THEN rework (room test — HEURISTIC).
+4. IF a section doesn't fit the narrative THEN save it for a future piece instead of forcing it (Perell — HEURISTIC, T1).
+5. IF the essay lacks the author's specific numbers, stories, or mistakes THEN add the scar tissue (Perell surprise — HEURISTIC, T1).
+6. IF the draft has more than one idea THEN split — one essay, one idea (Perell/Cole — HEURISTIC).
+
+## Metrics
+
+- **Earned-insight density**: % of paragraphs traceable to the author's specific experience (Perell/Cole — HEURISTIC).
+- **Reaction quality in testing** (CRIBS): idea survives live-conversation test before writing (Perell — FRAMEWORK, T1).
+- **Distribution coverage**: essay repurposed into ≥3 formats (Simmonds — FRAMEWORK, T1).
+- **Engagement**: substantive comments/replies in the first 48h (skill standard — HEURISTIC).
+- **Timebox**: one strong essay weekly beats five weak posts (skill heuristic); revisit topics quarterly.
+
+## Sources
+
+1. David Perell, essay process (CRIBS, blocks, surprise) | every.to/superorganizers/how-david-perell-writes-an-essay | tier 1 | 2026-08-15
+2. David Perell, Learn to Write Fast | perell.com/note/learn-to-write-fast | tier 1 | 2026-08-15
+3. Nicolas Cole, 4A framework + atomic essays | ship30for30.com | tier 1 | 2026-08-15
+4. Ross Simmonds, distribution after publish | theagentsofchange.com | tier 1 | 2026-08-15
+5. Paul Graham, "essay should meander toward surprise" | paulgraham.com/essay.html | tier 1 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

@@ -101,6 +101,40 @@ Usage rules that keep the bank valuable:
 
 **Gate:** Bank cited in at least one real asset (headline, email, or landing section) within the current workstream.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Joanna Wiebe (verbatim customer language), Bob Moesta (their words become copy), Clozd (recording + win/loss discipline), Hiten Shah (PMF language), ziellab (persona fiction warning). Full research: practitioner-intelligence/syntheses/research.md, messaging.md.
+
+- **Verbatim or nothing — quirks are the signal** (Wiebe — FRAMEWORK, T1): "slightly revise" customer phrases; never clean up grammar into marketing speak.
+- **Record and transcribe; never paraphrase from memory** (Clozd — EMPIRICAL, T1): note-taking kills follow-up questions and loses exact wording.
+- **The bank exists to feed assets** (Wiebe — FRAMEWORK, T1): extraction without a consumer (headline, email, value prop) is premature.
+- **Stage-organization matches awareness** (Schwartz/Wiebe — FRAMEWORK, T1): copywriters pull per awareness level; one index organized by stage → category.
+- **AI on your transcripts, never as persona oracle** (ziellab — HEURISTIC, T2): AI personas trained on generic internet content are "the same fiction at lower cost."
+- **Recruit the full spectrum** (Moesta/Revella — PRINCIPLE, T1): winners AND losers, switchers AND almost-switched — happy customers alone produce survivorship-biased language.
+
+Decision rules:
+1. IF a phrase doesn't name a concrete pain, outcome, comparison, or trigger THEN don't bank it (Wiebe — HEURISTIC).
+2. IF a phrase is high-emotion AND self-contained THEN tag it as a headline candidate (Wiebe — HEURISTIC).
+3. IF there's no asset waiting to consume the phrases THEN defer the extraction or define the asset first (Wiebe — FRAMEWORK, T1).
+4. IF mining win/loss for language THEN require ≥20 interviews per segment before trusting themes (Clozd — EMPIRICAL, T1).
+5. IF using AI to build personas or language THEN train it on your transcripts and reviews, never on general internet content (ziellab — HEURISTIC, T2).
+6. IF a phrase is vague ("great product") THEN discard even if plentiful (skill standard — HEURISTIC).
+
+## Metrics
+
+- **Bank size + tagged coverage**: 100% of phrases tagged (stage/category/segment) (skill standard — HEURISTIC).
+- **Usage rate**: % of shipped assets citing bank phrases (target: every headline batch uses ≥1 verbatim phrase — Wiebe, T1).
+- **Quote yield**: % of interview content usable verbatim in proof sections (Clozd recording discipline — EMPIRICAL, T1).
+- **Timebox**: append after every interview round or review batch; prune phrases that no longer match the product (skill standard).
+
+## Sources
+
+1. Joanna Wiebe, customer-language copy process | copyhackers.com | tier 1 | 2026-08-14
+2. Bob Moesta, switch interviews (language → positioning/copy) | jobstobedone.org | tier 1 | 2026-08-15
+3. Clozd, win/loss discipline (record, ≥20 interviews) | clozd.com | tier 1 | 2026-08-15
+4. Hiten Shah, PMF survey language | via positioning.md | tier 1 | 2026-08-14
+5. ziellab, persona-fiction guide (AI personas warning) | via research.md | tier 2 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

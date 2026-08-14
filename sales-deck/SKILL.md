@@ -107,6 +107,38 @@ Investor decks swap differentiation/objections for market, business model, tract
 
 **Gate:** All checks pass; the headline-only story saved as slide one of the appendix.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Andy Raskin (Greatest Sales Deck), April Dunford (evidence-first), David Perell (surprise structure). Full research: practitioner-intelligence/syntheses/positioning.md, messaging-longtail.md.
+
+- **Raskin's 5 elements** (Raskin — FRAMEWORK, T1): 1) big change in the world, 2) land on the positive side (Promised Land), 3) the journey — why now, 4) the as/if — proof the change is real, 5) the new narrative — everyone tells the story. The deck is a story, not a spec.
+- **Headline = full-sentence claim; deck readable by headlines alone** (Raskin — FRAMEWORK, T1): ≤8 slides to product (Raskin heuristic).
+- **Evidence-first when there's no big change** (Dunford vs Raskin — DISAGREEMENT, conditional): a Raskin narrative without a credible big change rings false; stable markets use market-frame + evidence (Dunford).
+- **Proof lands at the moment of doubt** (Dunford/Price — FRAMEWORK, T1): between solution and CTA, or where the biggest objection sits.
+- **The ask appears once, at the end, as the logical conclusion** (Raskin — HEURISTIC, T1).
+
+Decision rules:
+1. IF no credible big change exists in the market THEN don't force the Raskin narrative — lead with competitive frame + evidence (Raskin vs Dunford — DISAGREEMENT, conditional).
+2. IF a headline is a label ("Our Solution", "Why Us") THEN rewrite it as a claim (Raskin — FRAMEWORK, T1).
+3. IF the product appears before the problem is felt (before ~slide 4-5 in sales) THEN restructure (Raskin — HEURISTIC).
+4. IF the ask is missing or appears twice THEN fix it — once, at the end (Raskin — HEURISTIC).
+5. IF the headline-only read doesn't tell the full story THEN restructure until it does (Raskin — FRAMEWORK, T1).
+6. IF a claim lacks a named proof THEN remove or defer it to the proof slide (Dunford evidence-first — FRAMEWORK, T1).
+
+## Metrics
+
+- **Headline-only story pass** (primary): a cold reader states problem, solution, and ask from headlines alone (Raskin — FRAMEWORK, T1).
+- **Slides-to-product count** (Raskin heuristic: ≤8 in sales decks).
+- **Ask clarity**: the single next step is specific and dated (Raskin — HEURISTIC).
+- **Timebox**: re-audit the deck at positioning changes or when the target audience's frame shifts.
+
+## Sources
+
+1. Andy Raskin, The Greatest Sales Deck I've Ever Seen (5 elements) | via positioning.md | tier 1 | 2026-08-14
+2. April Dunford, evidence-first positioning/market frame | via positioning.md | tier 1 | 2026-08-14
+3. Momoko Price, proof placement at moment of doubt | kantan.io | tier 2 | 2026-08-14
+4. David Perell, surprise-based narrative structure | every.to Superorganizers | tier 1 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

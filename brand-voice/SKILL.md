@@ -116,6 +116,39 @@ Keep the guide under 3 pages of content; length kills adoption.
 
 **Gate:** 3 rewrites approved, checklist attached to the guide, guide committed alongside positioning in the repo.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Ann Handley (*Everybody Writes*), Laura Belgray (Talking Shrimp), Joanna Wiebe (customer language), Hiten Shah (PMF language). Full research: practitioner-intelligence/syntheses/messaging.md, research.md.
+
+- **Voice is HOW, message is WHAT — different layers** (Belgray vs Wiebe — DISAGREEMENT, resolved as layers): research supplies what to say; voice supplies how. Voice is the differentiator in commoditized inboxes/social; message-match is the differentiator in unfamiliar categories.
+- **Voice comes from customer language + founder voice, not competitor cloning** (Handley, Belgray — PRINCIPLE, T1/T2): "slightly revise" customer phrases (Wiebe); founders write what competitors wouldn't say.
+- **Traits must be concrete** (Handley — HEURISTIC, T1): "plainspoken" beats "authentic"; a trait you can't turn into writing behaviors is decoration.
+- **Voice constant, tone shifts with situation** (Handley — FRAMEWORK, T1): errors/apologies get directness, not playfulness.
+- **Personality converts in the inbox** (Belgray — OPINION, T2): "people want relatable, not perfect"; polished, personality-free copy reads as spam.
+
+Decision rules:
+1. IF copy reads like every other competitor THEN rebuild voice from customer language + founder samples — never from category norms or a competitor's guide (Handley/Belgray — FRAMEWORK, T1).
+2. IF a trait can't be defined as 3 concrete writing behaviors THEN rename it until it can (Handley — HEURISTIC, T1).
+3. IF the situation is an apology, outage, or security incident THEN drop playfulness and raise directness (Handley tone ranges — HEURISTIC, T1).
+4. IF a rewritten line doesn't sound like the founder talking to a friend THEN revise (Belgray — HEURISTIC, T2).
+5. IF the voice guide exceeds ~3 pages THEN cut — length kills adoption (Handley — HEURISTIC, T1).
+6. IF writing for an unfamiliar category THEN weight message-match (customer language) over personality; IF a commoditized category THEN weight personality (Wiebe/Belgray — DISAGREEMENT, conditional).
+
+## Metrics
+
+- **Voice consistency score**: % of shipped assets that pass the 10-line editing checklist (skill standard — HEURISTIC).
+- **Rewrite acceptance**: founder approval on "would you say this?" not "do you like this?" (skill standard — HEURISTIC).
+- **Copy performance deltas before/after voice rollout** (directional; voice is a brand tax/asset — HEURISTIC).
+- **Timebox**: re-audit the guide at positioning changes or major segment entry; light review every 6 months (Bare Strategy cadence — T2).
+
+## Sources
+
+1. Ann Handley, *Everybody Writes* (simplicity, voice, tone) | tier 1 | 2026-08-14
+2. Laura Belgray, Talking Shrimp (voice-led copy) | talking-shrimp.com | tier 2 | 2026-08-14
+3. Joanna Wiebe, customer-language copy ("slightly revise") | copyhackers.com | tier 1 | 2026-08-14
+4. Hiten Shah, PMF survey language → copy | via positioning.md | tier 1 | 2026-08-14
+5. Nicolas Cole, atomic essays/4A framework (voice via frameworks) | ship30for30.com | tier 1 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

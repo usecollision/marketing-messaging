@@ -136,6 +136,39 @@ Length rules:
 
 **Gate:** Compliance and voice checklist passed; every claim traces to recorded proof.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Eugene Schwartz (sophistication/awareness), Dara Denney (creative testing), Claude Hopkins (test-measure-refine), Joanna Wiebe (customer language). Full research: practitioner-intelligence/syntheses/messaging.md, paid-longtail.md, messaging-longtail.md.
+
+- **Awareness level sets the entry point** (Schwartz — FRAMEWORK, T1): cold traffic needs problem-aware entry; warm/retargeting gets offer/close entry.
+- **Market sophistication sets the claim type** (Schwartz — FRAMEWORK, T1): stage 3+ markets (competitors claim the same outcomes) require mechanism/proof, not direct outcome claims.
+- **Test creatives, not audiences** (Dara Denney — EMPIRICAL, T2): creative is the highest-leverage paid variable; audiences are platform-managed.
+- **Learn on statics, scale on video** (Denney — HEURISTIC, T2): statics give cheap messaging learnings; winners move into video.
+- **One variable per variant** (Hopkins/Denney — EMPIRICAL, T1): change exactly one thing so results are learnable; let volume accrue before judging.
+
+Decision rules:
+1. IF the market is sophistication stage 3+ THEN lead with mechanism/proof, not outcome claims (Schwartz — FRAMEWORK, T1).
+2. IF the audience is cold THEN use a low-friction CTA and problem-entry; IF warm THEN a direct ask is safe (Schwartz — FRAMEWORK, T1).
+3. IF monthly budget is $5k-30k THEN test 1-3 new creatives per week in one consolidated campaign, capping total creatives near 10 (Denney — EMPIRICAL, T2).
+4. IF an ad is winning THEN iterate the winner 10 ways before testing brand-new concepts (Denney — HEURISTIC, T2).
+5. IF a hook or claim would not survive without the image/creative THEN rewrite — neither element should carry the other (skill standard + Denney — HEURISTIC, T2).
+6. IF a variant changes more than one variable THEN split it — results are unlearnable (Hopkins — EMPIRICAL, T1).
+
+## Metrics
+
+- **CPA/ROAS per creative variant** (primary — Denney/Hopkins); CTR is directional, not the verdict.
+- **3-second hook retention for video ads** (Denney + retention data — EMPIRICAL, T2).
+- **Iteration ratio**: winners iterated (target ≥10 iterations per winning creative — Denney, HEURISTIC).
+- **Timebox**: don't kill on early hunches; let volume accrue to statistical meaning (Hopkins TMR — EMPIRICAL, T1); re-measure on offer or audience changes.
+
+## Sources
+
+1. Eugene Schwartz, *Breakthrough Advertising* (sophistication, awareness) | tier 2 (secondary on canonical) | 2026-08-14
+2. Dara Denney, creative testing frameworks | scribd notes + Motion series + YouTube | tier 2 | 2026-08-15
+3. Claude Hopkins, *Scientific Advertising* (test-measure-refine) | analyticstrategy.com | tier 1 | 2026-08-14
+4. Joanna Wiebe, customer-language copy | copyhackers.com | tier 1 | 2026-08-14
+5. Platform truncation specs (Meta/Google/LinkedIn/TikTok) | platform docs — re-verify at use | tier 1 | 2026-08-15
+
 ## Evaluation & QA
 
 ### Common Failure Modes

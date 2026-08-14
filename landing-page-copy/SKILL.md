@@ -105,6 +105,40 @@ Design proof elements:
 
 **Gate:** Proof directly supports the claims made in feature sections.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Joanna Wiebe (Copyhackers), Momoko Price (Kantan), Michael Aagaard (message-match CRO), Chris Widener (LIFT), Eugene Schwartz, Ann Handley, Alex Hormozi. Full research: practitioner-intelligence/syntheses/messaging.md, cro.md, messaging-longtail.md.
+
+- **Optimize a funnel step, not a page** (Price — FRAMEWORK, T2): page-rewrite requests without funnel context are a category error; baseline analytics gate the project.
+- **Message-match is the biggest copy lever** (Aagaard — EMPIRICAL, T1): Saxo +99.4%, Bettingexpert +31.5% from value-clarity/message fixes; if the value prop isn't clear in 5 seconds, layout and testing are premature (Wolf agrees: messaging audit first).
+- **LIFT factors as the diagnosis lens** (Widener — FRAMEWORK, weakly validated): value proposition, relevance, clarity, urgency, distraction, anxiety reduction — organize leaks by factor before rewriting.
+- **Research before writing; customer language verbatim** (Wiebe, Ogilvy, Hopkins — FRAMEWORK, T1): the strongest consensus in copywriting across 100 years.
+- **Awareness level decides entry and structure** (Schwartz — FRAMEWORK, T1): unaware → story/curiosity; product-aware → proof + offer; one message for all awareness levels is a category error.
+
+Decision rules:
+1. IF no baseline conversion/drop-off data exists for the step THEN set up measurement before rewriting the page (Price — FRAMEWORK, T2).
+2. IF the hero's value prop isn't clear in 5 seconds (five-second test fails) THEN fix message-match before anything else (Wiebe/Aagaard — FRAMEWORK, T1).
+3. IF drop-off concentrates below the fold or at the CTA THEN check LIFT anxiety/distraction factors (guarantee, clarity of next step) before rewriting copy (Widener — FRAMEWORK, T2).
+4. IF traffic can't support conclusive A/B tests THEN validate with five-second tests + funnel observation instead (Wiebe/Hopkins — FRAMEWORK, T1).
+5. IF the offer can be compared away to alternatives THEN stack the offer before writing more copy (Hormozi — HEURISTIC, T3).
+6. IF writing for cold traffic THEN enter at the problem-aware level; IF warm/retargeting THEN enter at offer/close level (Schwartz — FRAMEWORK, T1).
+
+## Metrics
+
+- **Step conversion + funnel drop-off deltas** (primary — Price, T2): the page is measured against its step's baseline, not the site average.
+- **Five-second clarity pass rate** (Wiebe — FRAMEWORK, T1): hero test with a cold reader before launch.
+- **CTA click-through and completion** per variant (Hopkins test-measure-refine — EMPIRICAL, T1).
+- **Timebox**: 2-4 weeks per test at meaningful traffic; re-measure when traffic sources, offer, or funnel structure change.
+
+## Sources
+
+1. Joanna Wiebe, Copyhackers 3-part copy process | copyhackers.com | tier 1 | 2026-08-14
+2. Momoko Price, Kantan funnel mapping + TCC podcast #17 | kantan.io | tier 2 | 2026-08-14
+3. Michael Aagaard, message-match case studies (Saxo +99.4%, Bettingexpert +31.5%) | via cro.md synthesis | tier 2 | 2026-08-14
+4. Chris Widener, LIFT model | via cro.md synthesis | tier 3 | 2026-08-14
+5. Eugene Schwartz, *Breakthrough Advertising* (awareness/sophistication) | tier 2 (secondary on canonical) | 2026-08-14
+6. Alex Hormozi, *$100M Offers* (offer stacking — T3) | tier 3 | 2026-08-14
+
 ## Evaluation & QA
 
 ### Landing Page Scorecard

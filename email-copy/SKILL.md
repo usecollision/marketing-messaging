@@ -118,6 +118,40 @@ Copy rules:
 
 **Gate:** All checks pass; test variant documented with a hypothesis.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Jay Schwedelson (subject-line/send-time data), Chad White (lifecycle), Val Geisler (behavior branching), Laura Atkins (deliverability), Andre Chaperon (sequences), Laura Belgray (voice), Kath Pay (journey). Full research: practitioner-intelligence/syntheses/email.md, messaging.md.
+
+- **Subject + preview are one two-line ad** (Schwedelson — EMPIRICAL, T2): time-commitment framing in subject/preheader +28% opens / +19% preheader; off-hour sends ~+15% opens; never on the hour.
+- **Stage-appropriate copy beats promo-everything** (White lifecycle; Geisler — FRAMEWORK, T1): branch content on activation state — "don't serve dessert to someone still on the appetizer."
+- **Deliverability is reputation from recipient behavior** (Atkins — FACT/EMPIRICAL): honest subjects, consent, complaint control; clickbait subjects decay the list.
+- **Human voice wins in the inbox** (Belgray, Geisler — PRINCIPLE, T2): welcome email from a named founder with a story; relatability over polish.
+- **Post-MPP opens are directional, not truth** (White — EMPIRICAL, T1): clicks are the primary signal when Apple-Mail mix dominates.
+
+Decision rules:
+1. IF subject and preview don't read as one continuous hook THEN rewrite the pair before touching the body (Schwedelson — EMPIRICAL, T2).
+2. IF sending to a stale/inactive segment THEN winback → re-permission → prune before more sends (White — FRAMEWORK, T1).
+3. IF complaints or spam rate rise THEN cut frequency and re-qualify the list — "more isn't always better" (Atkins vs Geisler — DISAGREEMENT, conditional; Atkins' context is reputation at scale).
+4. IF the list is Apple-Mail-heavy THEN optimize clicks and engagement, not opens (White — EMPIRICAL, T1).
+5. IF the email's CTA lands on a page with friction THEN fix the after-click experience first — optimizing the email alone is silo optimization (Pay — FRAMEWORK, T2).
+6. IF a sequence step assumes progress the subscriber hasn't made THEN branch by behavior, not calendar (Geisler — FRAMEWORK, T1).
+
+## Metrics
+
+- **Clicks + conversions per journey stage** (primary, post-MPP — White, T1); open rate directional only.
+- **Spam complaints (<0.3% bulk senders), bounce, unsubscribe per step** (Gmail/Yahoo rules + Atkins — FACT).
+- **Reply rate** (voice signal — Belgray/Geisler, HEURISTIC).
+- **Timebox**: evaluate sends at 7-14 days; re-measure when list, offer, or authentication changes.
+
+## Sources
+
+1. Jay Schwedelson, subject-line and send-time data | jayschwedelson.com EP63 + MarketingProfs 2024 | tier 2 | 2026-08-14
+2. Chad White, lifecycle + re-permissioning | emailmarketingrules.com | tier 1 | 2026-08-14
+3. Val Geisler, behavior-branching onboarding | Intercom podcast | tier 2 | 2026-08-14
+4. Laura Atkins, deliverability/reputation | wordtothewise.com + stripo interview | tier 1 | 2026-08-14
+5. Andre Chaperon, sequence structure/open loops | via messaging.md | tier 2 | 2026-08-14
+6. Laura Belgray, voice-led email | talking-shrimp.com | tier 2 | 2026-08-14
+
 ## Evaluation & QA
 
 ### Common Failure Modes

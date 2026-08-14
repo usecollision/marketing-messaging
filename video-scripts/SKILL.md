@@ -114,6 +114,41 @@ Rules:
 
 **Gate:** All checks pass; 2+ hook variants ready for testing.
 
+## Practitioner Grounding & Decision Rules
+
+Built from Dara Denney (creative testing), Billo/ClipSpeed/Postigniter/Opus retention data (1.5s hook), Eugene Schwartz (awareness), Laura Belgray (voice). Full research: practitioner-intelligence/domains/messaging-longtail/dara-denney.md, short-form-hook-retention.md; syntheses/messaging.md.
+
+- **The hook window is 1.5-3 seconds** (retention data — EMPIRICAL, T2): the stay-or-scroll decision happens in 0.3-0.8s; 50-70% of leavers exit in the first 1-2 seconds; improving 1s retention 50%→70% doubles the audience.
+- **Layered hooks beat single-element** (Postigniter/Hootsuite — EMPIRICAL, T2): visual + auditory + text ~3x the 3-second hold; 60%+ of mobile views are sound-off, so text must carry the claim.
+- **Core message in the first 3 seconds ≈ +60% total retention** (Billo — EMPIRICAL, T2); nearly half of viewers past 3s watch the full 30s.
+- **Retention beats: one pattern break every 2-4 seconds** (Opus — EMPIRICAL, T2); high-performing Shorts average a cut every 2-4s.
+- **Test creatives, not audiences; iterate winners** (Denney — EMPIRICAL, T2): 2-3 hook variants of one body, read the 3s retention as the score.
+- **Conversational hooks read as authentic** (Denney — HEURISTIC, T2): "No because...", "Wait why is this..." take a second to process — viewers don't scroll past instantly.
+
+Decision rules:
+1. IF the first frame contains setup, logo, or dead air THEN cut it — that's where the steepest drop lives (retention data — EMPIRICAL, T2).
+2. IF the video may be watched muted THEN every claim must survive as on-screen text (sound-off dominance — EMPIRICAL, T2).
+3. IF any 5-second stretch has no pattern break (cut, text change, tone shift) THEN rewrite that beat (Opus — EMPIRICAL, T2).
+4. IF the payoff doesn't resolve the hook's promise THEN cut the curiosity — both viewers and algorithms penalize mismatch (Billo — EMPIRICAL, T2).
+5. IF testing paid video THEN produce 2-3 hook variants of one body and test hooks before rewriting bodies (Denney — HEURISTIC, T2).
+6. IF platform is TikTok THEN the hook must land in ~1s; IF YouTube Shorts THEN ~1.5-2s is available; IF Reels THEN lead with the visual (ClipSpeed — EMPIRICAL, T2).
+
+## Metrics
+
+- **1-second / 3-second retention rate** (primary — platform analytics; EMPIRICAL, T2): the score for hook quality.
+- **Completion rate + watch-through %** (retention curve shape, not just average).
+- **Hook variant win rate** per test batch (Denney — HEURISTIC, T2).
+- **Timebox**: judge a hook variant on platform retention data within its learning window; re-measure when the feed algorithm or format shifts.
+
+## Sources
+
+1. Dara Denney, creative testing + hooks | YouTube / scribd notes | tier 2 | 2026-08-15
+2. Billo TikTok ad performance review | via reelzila Medium | tier 3 | 2026-08-15
+3. ClipSpeed, first-second retention analysis | clipspeed.ai | tier 3 | 2026-08-15
+4. Postigniter, hook formulas from 10,000+ Shorts | postigniter.com | tier 3 | 2026-08-15
+5. Opus, Shorts length/format retention | opus.pro | tier 2 | 2026-08-15
+6. Eugene Schwartz, awareness levels | tier 2 (secondary on canonical) | 2026-08-14
+
 ## Evaluation & QA
 
 ### Common Failure Modes
