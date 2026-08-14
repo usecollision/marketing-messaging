@@ -29,5 +29,4 @@ Merged from: `marketing-copy` + `marketing-content` (Aug 2026).
 - `marketing-channels` (copy → SEO pages, social posts, email), `marketing-paid` (copy → ad creative)
 
 ## Roadmap refs (referenced but not yet built)
-- `marketing-optimize/landing-page-optimization` (referenced by conversion-copywriting, landing-page-copy)
-- `marketing-channels/content-calendar` (referenced by content-strategy)
+- None — every referenced skill now exists. See marketing-core/capability-catalog.md for planned wave-2 expansion.
